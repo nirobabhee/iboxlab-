@@ -76,7 +76,7 @@
                         </div>
                         <div class="document-item__content">
                             <h4 class="title"><a href="#0" class="text-underline base-color">Section Manager</a></h4>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta incidunt quod ipsa neque consequatur aspernatur earum quos est, totam cumque!</p>
+                            <p>Efficiently manage and organize all sections of your application. Create, edit, and customize sections with an intuitive drag-and-drop interface. Gain full control over your content structure and layout management system.</p>
                         </div>
                     </div>
                 </div>
@@ -87,7 +87,7 @@
                         </div>
                         <div class="document-item__content">
                             <h4 class="title"><a href="#0" class="text-underline">Payment Gateway</a></h4>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta incidunt quod ipsa neque consequatur aspernatur earum quos est, totam cumque!</p>
+                            <p>Secure and reliable payment processing with support for multiple payment methods. Accept payments globally with instant transactions, robust fraud detection, and comprehensive transaction reporting for your peace of mind.</p>
                         </div>
                     </div>
                 </div>
@@ -98,7 +98,7 @@
                         </div>
                         <div class="document-item__content">
                             <h4 class="title"><a href="#0" class="text-underline">Smart Code</a></h4>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta incidunt quod ipsa neque consequatur aspernatur earum quos est, totam cumque!</p>
+                            <p>Built with clean, maintainable, and scalable architecture following industry best practices. Our codebase prioritizes performance, security, and flexibility to support your business growth and future enhancements.</p>
                         </div>
                     </div>
                 </div>
@@ -109,7 +109,7 @@
                         </div>
                         <div class="document-item__content">
                             <h4 class="title"><a href="#0" class="text-underline">Smart UI/UX</a></h4>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta incidunt quod ipsa neque consequatur aspernatur earum quos est, totam cumque!</p>
+                            <p>Intuitive and responsive user interface designed for optimal user experience across all devices. Modern design patterns combined with accessibility standards ensure users can navigate and interact effortlessly with your platform.</p>
                         </div>
                     </div>
                 </div>
