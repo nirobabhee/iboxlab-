@@ -488,3 +488,5 @@ You can verify the full task with these quick steps:
 The project is intentionally written in a simple Laravel style, so another developer can open the controller, service, and migration files and quickly understand the flow.
 
 No real flight API is used here. The providers are mocked locally inside the service, which keeps the task easy to run and review.
+
+## database & API collection follow for this data.
